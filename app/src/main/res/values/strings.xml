@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Animation</string>
+    <string name="sky">sky</string>
+    <string name="sun">sun</string>
+    <string name="grass">grass</string>
+    <string name="moon">moon</string>
+</resources>
